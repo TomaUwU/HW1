@@ -1,0 +1,14 @@
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\bin\Debug\net6.0\Homework1_SingleThreaded.exe
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\bin\Debug\net6.0\Homework1_SingleThreaded.deps.json
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\bin\Debug\net6.0\Homework1_SingleThreaded.runtimeconfig.json
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\bin\Debug\net6.0\Homework1_SingleThreaded.dll
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\bin\Debug\net6.0\Homework1_SingleThreaded.pdb
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\Homework1_SingleThreaded.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\Homework1_SingleThreaded.AssemblyInfoInputs.cache
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\Homework1_SingleThreaded.AssemblyInfo.cs
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\Homework1_SingleThreaded.csproj.CoreCompileInputs.cache
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\Homework1_SingleThreaded.dll
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\refint\Homework1_SingleThreaded.dll
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\Homework1_SingleThreaded.pdb
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\Homework1_SingleThreaded.genruntimeconfig.cache
+F:\C#\Day 2\Homework\HW1\Homework1_SingleThreaded\Homework1_SingleThreaded\obj\Debug\net6.0\ref\Homework1_SingleThreaded.dll
